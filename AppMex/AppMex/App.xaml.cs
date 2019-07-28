@@ -10,7 +10,7 @@ namespace AppMex
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            
         }
 
         protected override void OnStart()
