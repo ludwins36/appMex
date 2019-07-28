@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace AppMex.ViewModel
+namespace AppMex.MainViewModels
 {
     public class MainViewModel
     {
